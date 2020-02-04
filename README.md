@@ -7,12 +7,17 @@ From the beginning, since the first printed newspaper, every news that makes int
 FEATURES:
 
 STORY: A part of the main content of the article to be published as a piece of news.
+
 SECTION: The genre/category the STORY falls in.
 
 
 There are four distinct sections where each story may fall in to. The Sections are labelled as follows :
 
 Politics: 0
+
 Technology: 1
+
 Entertainment: 2
+
 Business: 3
+
